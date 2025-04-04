@@ -4047,7 +4047,7 @@ __webpack_require__.r(__webpack_exports__);
 // The list of file replacements can be found in `angular.json`.
 const environment = {
     production: false,
-    base_url: 'http://http://18.225.117.139:3001/api',
+    base_url: 'http://18.225.117.139:3001/api',
     /*base_url: 'http://18.225.117.139:3001/api',*/
     /*base_url_msbackendwcgestdoc: 'http://localhost:3006/api',
     base_url_msbackendwcpersonalrh: 'http://localhost:3007/api',
